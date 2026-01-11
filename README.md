@@ -45,5 +45,4 @@ CREATE TABLE students (
     percentage DOUBLE
 );
 
-## Author
-Amar Rajput
+
